@@ -43,6 +43,9 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 •	Circuito en físico
 
+![image](https://user-images.githubusercontent.com/116674536/221751082-ff83cc7f-477e-4e10-b459-c1abdfcedd20.png)
+
+
 EXPLICACIÓN DEL FUNCIONAMIENTO DEL CIRCUITO:
 
 Un amplificador de señal es un dispositivo electrónico que toma una señal de entrada débil y la amplifica para producir una señal de salida más fuerte. Los amplificadores de señal aumentan la amplitud de la señal entrante mediante el uso de componentes electrónicos como transistores o amplificadores operacionales. Los amplificadores se pueden diseñar para amplificar diferentes tipos de señales, como señales de audio, señales de video, señales de radiofrecuencia, etc. Además, los amplificadores pueden diseñarse para operar en una amplia gama de frecuencias, desde audio hasta frecuencias de microondas. Vale la pena señalar que los amplificadores de señal también pueden amplificar el ruido y la interferencia en la señal de entrada, lo que puede afectar negativamente la calidad de la señal de salida. Por lo tanto, es importante utilizar un amplificador de señal de alta calidad que reduzca la ganancia de ruido e interferencia agregando un capacitor en el circuito, ya que esto ayuda a reducir el ruido y la interferencia generada.
