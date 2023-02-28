@@ -48,11 +48,11 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 EXPLICACIÓN DEL FUNCIONAMIENTO DEL CIRCUITO:
 
-     Un amplificador de señal es un dispositivo electrónico que toma una señal débil de entrada y la amplifica para producir una señal de salida más fuerte. El amplificador de señal funciona mediante el uso de componentes electrónicos, como transistores o amplificadores operacionales, para aumentar la amplitud de la señal de entrada.
-     El amplificador puede ser diseñado para amplificar señales de diferentes tipos, como señales de audio, señales de video, señales de radiofrecuencia, etc. Además, los amplificadores también pueden ser diseñados para operar en diferentes rangos de frecuencia, desde frecuencias de audio hasta frecuencias de microondas.
-     
-Es importante tener en cuenta que un amplificador de señal también puede amplificar el ruido y las interferencias presentes en la señal de entrada, lo que puede afectar negativamente la calidad de la señal de salida. Por lo tanto, es importante utilizar un amplificador de señal de alta calidad que pueda minimizar la amplificación del ruido y las interferencias, por tal motivo, al circuito se añade un capacitor, dado que ayuda a que este ruido e interferencia creada disminuya. 
+Un amplificador de señal es un dispositivo electrónico que toma una señal débil de entrada y la amplifica para producir una señal de salida más fuerte. El amplificador de señal funciona mediante el uso de componentes electrónicos, como transistores o amplificadores operacionales, para aumentar la amplitud de la señal de entrada.
 
+El amplificador puede ser diseñado para amplificar señales de diferentes tipos, como señales de audio, señales de video, señales de radiofrecuencia, etc. Además, los amplificadores también pueden ser diseñados para operar en diferentes rangos de frecuencia, desde frecuencias de audio hasta frecuencias de microondas.
+
+Es importante tener en cuenta que un amplificador de señal también puede amplificar el ruido y las interferencias presentes en la señal de entrada, lo que puede afectar negativamente la calidad de la señal de salida. Por lo tanto, es importante utilizar un amplificador de señal de alta calidad que pueda minimizar la amplificación del ruido y las interferencias, por tal motivo, al circuito se añade un capacitor, dado que ayuda a que este ruido e interferencia creada disminuya. 
 
 VIDEO:
 
