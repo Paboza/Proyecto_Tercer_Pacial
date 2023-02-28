@@ -2,6 +2,8 @@
 
 OBJETIVO DE LA PRÁCTICA
 
+Nombres Integrantes: Asuero Joel, Boza Paul, Cevallos Karen
+
 Objetivo general:
 
 •	     Analizar y comprender el funcionamiento del circuito planteado: “Circuito Mini Amplificador De Audio”, mediante sus componentes y la realización del circuito en físico para un mejor desempeño y aprendizaje.
@@ -16,13 +18,21 @@ MARCO TEÓRICO
 MATERIAL Y EQUIPO REQUERIDO
 
 Cantidad y Material o equipo requerido
+
 1	Protoboard
+
 1	Circuito Integrado LM386
+
 1	Potenciómetro 10 KΩ
+
 Varios	Cables para electrónica
+
 1	Batería 9V
+
 1	Cable Plug
+
 1	Condensador 220uF a 16V
+
 1	Bocina o Parlante 8Ω, 2W
 
 EXPLICACIÓN DEL PROCEDIMIENTO
